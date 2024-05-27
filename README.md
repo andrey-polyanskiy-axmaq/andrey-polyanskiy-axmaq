@@ -1,5 +1,3 @@
 BMSTU Student/Russia
 ============================
-Golang (mainly)
-+
-C/C++
+Golang, С++, Python
